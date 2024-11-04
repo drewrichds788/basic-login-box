@@ -1,0 +1,57 @@
+
+
+
+
+/* basic styles */
+/* Pretty gorgeous if you ask me ;) */
+
+body {
+    background-color: rgb(81, 81, 81);
+}
+
+#UserNotif {
+    text-decoration: underline 1px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    margin: 0;
+    top: 1rem;
+    font-size: 1.25rem;
+    padding: 5px;
+    height: 0;
+}
+
+#formLogin {
+    margin: auto;
+    border: 0.5px black solid;
+    width: 15em;
+    background-color: rgba(168, 200, 199, 0.879);
+    border-radius: 55px;
+    height: 13em;
+    padding: 5px;
+    filter: drop-shadow(black 2px 2px 5px)
+
+}
+
+ #loginbttn {
+    margin: auto;
+    position: relative;
+    top: 1em;
+    
+
+ }
+
+
+
+#loginbttn:hover {
+    background-color: rgb(112, 112, 112);
+    color: rgb(255, 255, 255);
+    filter: drop-shadow(black 1px 1px 2px);
+}
+
+
+ #userNme {
+
+    margin-top: 6em;
+    
+}
+
